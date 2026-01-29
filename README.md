@@ -16,3 +16,4 @@ estruturado que permita à equipe da clínica gerenciar o fluxo de pacientes de 
 eficaz. Especificamente, o sistema deve suportar as atividades da secretária — como 
 cadastro, agendamento, confirmação e cancelamento de consultas — e as ações do 
 médico, como o cancelamento de consultas e a geração de receitas médicas.
+
